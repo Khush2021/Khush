@@ -8,7 +8,7 @@ I'm a passionate Full Stack Developer with a focus on the MERN (MongoDB, Express
 - **Frontend**: HTML, CSS, JavaScript, React.js, Tailwind CSS
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB
-- **Real-time Communication**: Socket.IO
+- **Real-time Communication**: Socket.IO, Peer.js
 - **Currently Learning**: Next.js, TypeScript
 
 ## 🌱 Currently Learning
